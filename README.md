@@ -1,7 +1,7 @@
 # CIP-1694
 
 - [x] CIP-1694 in a nutshell
-- [ ] CIP-1694 study sheets
+- [ ] cardano-cli study sheets
 
 ## CIP-1694 in a nutshell / CIP-1694 en resumen
 
