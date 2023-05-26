@@ -3,5 +3,5 @@
 ## CIP-1694 in a nutshell
 CIP-1694 en resumen
 
-[Spanish](https://github.com/tokenstakepool/CIP-1694/blob/main/CIP-1694_in_a_Nutshell%20(Spanish).pdf)
+[Spanish - Español](https://github.com/tokenstakepool/CIP-1694/blob/main/CIP-1694_in_a_Nutshell%20(Spanish).pdf)
 
