@@ -1,6 +1,6 @@
 # CIP-1694
 
-In collaboration with [ABLE]
+In collaboration with [ABLE] stake pool
 
 - [x] CIP-1694 in a nutshell
 - [ ] cardano-cli study sheets
