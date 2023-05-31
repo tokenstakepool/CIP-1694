@@ -14,7 +14,7 @@ Translated by Token Stake Pool [TOKEN] / Traducido por Token Stake Pool [TOKEN]
 ## cardano-cli study sheets / hojas de estudio para cardano-cli
 [Spanish - Español](https://github.com/tokenstakepool/CIP-1694/blob/main/Cardano-cli%20Study%20sheet%20(Español).pdf)
 
-## cardano-cli cheat sheets / hoja de referencia para cardano-cli
+## cardano-cli cheat sheets / hojas de referencia para cardano-cli
 [Spanish - Español](https://github.com/tokenstakepool/CIP-1694/blob/main/Cardano-cli%20cheat%20sheet%20Español.pdf)
 
 
