@@ -3,7 +3,8 @@
 In collaboration with [ABLE] stake pool
 
 - [x] CIP-1694 in a nutshell
-- [ ] cardano-cli study sheets
+- [x] cardano-cli cheat sheets
+- [x] cardano-cli study sheets
 
 ## CIP-1694 in a nutshell / CIP-1694 en resumen
 Translated by Token Stake Pool [TOKEN] / Traducido por Token Stake Pool [TOKEN]
