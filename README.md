@@ -12,7 +12,7 @@ Pending audit
 **Translated by Token Stake Pool [TOKEN] / Traducido por Token Stake Pool [TOKEN]**
 | From | To |
 | ----------- | ----------- |
-| ENG | SPA |
+| English | Spanish |
 
 ## CIP-1694 in a nutshell / CIP-1694 en resumen
 **[Spanish - Español (PDF)](https://github.com/tokenstakepool/CIP-1694/blob/main/CIP-1694%20in%20a%20Nutshell%20(2023-05-15%20Español).pdf)**
