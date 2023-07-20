@@ -6,6 +6,9 @@ In collaboration with [ABLE] stake pool
 - [x] cardano-cli cheat sheets
 - [x] cardano-cli study sheets
 
+Pending audit
+- [x] IOG's CIP-1694 Diagram
+
 Translated by Token Stake Pool [TOKEN] / Traducido por Token Stake Pool [TOKEN]
 
 ## CIP-1694 in a nutshell / CIP-1694 en resumen
