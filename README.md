@@ -10,9 +10,9 @@ Pending audit
 - [x] IOG's CIP-1694 Diagram
 
 **Translated by Token Stake Pool [TOKEN] / Traducido por Token Stake Pool [TOKEN]**
-| From | To |
-| ----------- | ----------- |
-| English | Spanish |
+| From | To | Format |
+| ----------- | ----------- | ----------- |
+| English | Spanish | PDF
 
 ## CIP-1694 in a nutshell / CIP-1694 en resumen
 **[Spanish - Español (PDF)](https://github.com/tokenstakepool/CIP-1694/blob/main/CIP-1694%20in%20a%20Nutshell%20(2023-05-15%20Español).pdf)**
