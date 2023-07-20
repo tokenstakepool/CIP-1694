@@ -9,10 +9,9 @@ In collaboration with [ABLE] stake pool
 Pending audit
 - [x] IOG's CIP-1694 Diagram
 
-| Syntax | Description |
+| From | To |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| ENG | SPA |
 
 
 **Translated by Token Stake Pool [TOKEN] / Traducido por Token Stake Pool [TOKEN]**
