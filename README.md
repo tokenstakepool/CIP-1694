@@ -23,7 +23,7 @@ Pending audit
 ![cardano-cli study sheets](cardano-cli-study-sheets.jpg)
 
 ## cardano-cli cheat sheets / hojas de referencia para cardano-cli
-**[==Spanish - Español (PDF)==](https://github.com/tokenstakepool/CIP-1694/blob/main/Cardano-cli%20cheat%20sheet%20Español.pdf)**
+**[Spanish - Español (PDF)](https://github.com/tokenstakepool/CIP-1694/blob/main/Cardano-cli%20cheat%20sheet%20Español.pdf)**
 
 ![cardano-cli cheat sheets](cardano-cli-cheat-sheet.jpg)
 
