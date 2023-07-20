@@ -22,4 +22,10 @@ Translated by Token Stake Pool [TOKEN] / Traducido por Token Stake Pool [TOKEN]
 ## CIP-1694 in a Nutshell
 ![CIP1694-in-a-nutshell](cip1694-nutshell.jpg)
 
+## cardano-cli study sheets / hojas de estudio para cardano-cli
+![cardano-cli study sheets](cardano-cli-study-sheets.jpg)
+
+## cardano-cli cheat sheets / hojas de referencia para cardano-cli
+![ardano-cli cheat sheets](cardano-cli-cheat-sheet.jpg)
+
 
