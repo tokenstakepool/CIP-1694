@@ -18,6 +18,8 @@ Translated by Token Stake Pool [TOKEN] / Traducido por Token Stake Pool [TOKEN]
 [Spanish - Español](https://github.com/tokenstakepool/CIP-1694/blob/main/Cardano-cli%20cheat%20sheet%20Español.pdf)
 
 
+# Previews
+## CIP-1694 in a Nutshell
 ![CIP1694-in-a-nutshell](cip1694-nutshell.jpg)
 
 
