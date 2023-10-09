@@ -30,5 +30,11 @@ Pending audit
 
 ![cardano-cli cheat sheets](cardano-cli-cheat-sheet.jpg)
 
-
+> **Warning**
+>
+> I, TOKEN, volunteered to translate Cardano tutorials to Spanish in May of 2023.
+> I am now involved in CIP-1694 in some way.
+>
+> To those of you still fighting to create a fair system:
+> all good things come to those who wait. 
 
