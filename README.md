@@ -36,5 +36,5 @@ Pending audit
 > I am now involved in CIP-1694 in some way.
 >
 > To those of you still fighting to create a fair system:
-> all good things come to those who wait. 
+> all things come to those who wait.
 
